@@ -2,12 +2,24 @@
   "name": "hdwallet-to-keystore",
   "version": "1.0.0",
   "description": "create ethereum keystore file from hdwallet accounts.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nakajo2011/hdwallet-to-keystore.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nakajo2011/hdwallet-to-keystore/issues"
+  },
   "bin": {
     "hd2keystore": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "ethereum",
+    "hdwallet",
+    "keystore"
+  ],
   "author": "Yukishige Nakajo <nakajo@haw.co.jp>",
   "license": "MIT",
   "dependencies": {
