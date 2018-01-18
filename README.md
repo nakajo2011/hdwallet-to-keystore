@@ -1,7 +1,10 @@
+[![Dependency Status](https://gemnasium.com/badges/github.com/nakajo2011/hdwallet-to-keystore.svg)](https://gemnasium.com/github.com/nakajo2011/hdwallet-to-keystore)
+
 # hdwallet-to-keystore
 > EthreumのHDWalletのアカウントからkeystore JSON fileを生成するツールです。
 
 > create ethereum keystore file from hdwallet accounts.
+
 
 ## Installation
 
@@ -37,3 +40,4 @@ Options:
 ## License
 
 MIT
+
