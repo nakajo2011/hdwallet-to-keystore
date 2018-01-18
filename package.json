@@ -1,0 +1,19 @@
+{
+  "name": "hdwallet-to-keystore",
+  "version": "1.0.0",
+  "description": "create ethereum keystore file from hdwallet accounts.",
+  "bin": {
+    "hd2keystore": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yukishige Nakajo <nakajo@haw.co.jp>",
+  "license": "MIT",
+  "dependencies": {
+    "bip39": "^2.5.0",
+    "commander": "^2.13.0",
+    "ethereumjs-wallet": "^0.6.0",
+    "hdkey": "^0.7.1"
+  }
+}
